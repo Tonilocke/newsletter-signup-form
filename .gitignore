@@ -2,10 +2,10 @@
 *.sketch
 *.fig
 *.xd
-/assets/design
+/design
 preview.jpg
 style-guide.md
-README.md
+
 # Dependencies
 /node_modules
 /.pnp
