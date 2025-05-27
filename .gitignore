@@ -2,7 +2,7 @@
 *.sketch
 *.fig
 *.xd
-/design
+assets/design
 preview.jpg
 style-guide.md
 
