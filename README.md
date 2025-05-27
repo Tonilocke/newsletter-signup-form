@@ -39,9 +39,6 @@ Users should be able to:
 ![Screenshot Mobile](./ScreenshotMobile.png)
 
 
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-sign-up-form-kLsBK1veih)
