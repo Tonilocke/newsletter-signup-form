@@ -27,7 +27,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: RobotoRegular;
+    font-family: RobotoRegular, sans-serif;
     background-color: var(--blue-700);
     width: 100%; 
 }
@@ -46,7 +46,7 @@ main{
     line-height: 2em;
     padding:  3em;
     & h1{
-        font-family:RobotoBold;
+        font-family:RobotoBold, sans-serif;
         font-size: 3em;
         padding: 0.3em;
     }
@@ -64,7 +64,7 @@ form{
     grid-template-columns: 1fr;
     padding: 1.5em 0;
     & label{
-        font-family: RobotoBold;
+        font-family: RobotoBold, sans-serif;
         color: var(--blue-700); 
         padding: 1em 0; 
     }
@@ -87,7 +87,7 @@ form{
 button{
     color:var(--white);
     background-color: var(--blue-800);
-    font-family: RobotoBold;
+    font-family: RobotoBold, sans-serif;
     padding: 1.2em 1.4em;
     border-radius: var(--radius);
     outline: none;
@@ -120,7 +120,7 @@ button:focus{
         padding:0.7em 0.2em;
     }
     & h1{
-        font-family: RobotoBold;
+        font-family: RobotoBold, sans-serif;
         font-size: 2.5em;
         color:var(--blue-700);
         padding-left:  1em;
@@ -226,7 +226,7 @@ ul{
         padding:2em 0;
     }
     & h1{
-        font-family: RobotoBold;
+        font-family: RobotoBold, sans-serif;
         font-size: 3em;
         color:var(--blue-700);
     }
