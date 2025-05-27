@@ -1,12 +1,12 @@
 @font-face{
     font-family:"RobotoRegular";
     src:
-        local("Roboto Regular"), url("https://tonilocke.github.io/newsletter-signup-form//assets/fonts/Roboto-Regular.ttf");
+        local("Roboto Regular"), url("https://github.com/Tonilocke/newsletter-signup-form/blob/main/assets/fonts/Roboto-Regular.ttf");
     font-weight: 400;
 }
 @font-face {
     font-family: "RobotoBold";
-    src: local("Roboto Bold"), url("https://tonilocke.github.io/newsletter-signup-form//assets/fonts/Roboto-Bold.ttf");
+    src: local("Roboto Bold"), url("https://github.com/Tonilocke/newsletter-signup-form/blob/main/assets/fonts/Roboto-Bold.ttf");
     font-weight: 700;
 }
 
@@ -115,7 +115,7 @@ button:focus{
     background-color: var(--white);
     margin: 0 auto;
     & h1::before{
-        content: url("assets/images/icon-success.svg");
+        content: url("https://github.com/Tonilocke/newsletter-signup-form/blob/main/assets/images/icon-success.svg");
         display: block;
         padding:0.7em 0.2em;
     }
@@ -221,7 +221,7 @@ ul{
     background-color: var(--white);
     height: 100dvh;
     & h1::before{
-        content: url("assets/images/icon-success.svg");
+        content: url("https://github.com/Tonilocke/newsletter-signup-form/blob/main/assets/images/icon-success.svg");
         display: block;
         padding:2em 0;
     }
